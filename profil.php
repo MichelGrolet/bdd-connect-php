@@ -10,6 +10,7 @@
     <title>bdd-connect-php</title>
 </head>
 <body>
+<?php  ?>
 <h1>Bienvenue, <?php echo $_SESSION['username'] ?></h1>
 <ul>
     <li>Prénom : <?php echo $_SESSION['surname'] ?></li>

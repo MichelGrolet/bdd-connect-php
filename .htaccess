@@ -1,0 +1,5 @@
+# htaccess orienté sécurité
+
+# bloque l'affichage des erreurs php :
+
+php_flag display_errors Off
